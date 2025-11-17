@@ -1,4 +1,7 @@
 this is my new file
+<<<<<<< HEAD
 thus is new
 this is my second commit
 
+=======
+>>>>>>> parent of 5f1360d (third commit)
